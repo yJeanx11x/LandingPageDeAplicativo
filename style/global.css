@@ -14,7 +14,7 @@
 }
 :root {
   /* Produto */
-  --brand-gradient: linear-gradient(50deg, #fc4a1a, #f7b733);
+  --brand-gradient: linear-gradient(90deg, #fc4a1a, #f7b733);
   --brand-color-primary: #f7b733;
   --brand-color-secondary: #fc4a1a;
 
